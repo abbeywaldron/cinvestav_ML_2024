@@ -12,4 +12,6 @@ https://github.com/abbeywaldron/cinvestav_ML_2024
 
 Then click "launch" and wait a couple of minutes for it to build and launch.
 
+To run, click on the following: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abbeywaldron/cinvestav_ML_2024/HEAD)
+
 
