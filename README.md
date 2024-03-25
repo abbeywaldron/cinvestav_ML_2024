@@ -3,7 +3,7 @@
 
 You can run the code in a tf2.11 environment online, for example with binder, navigate to:
 
-[mybinder.org](https://mybinder.org){:target="_blank"}
+<a href="https://mybinder.org" target="_blank">mybinder.org</a>
 
 
 
