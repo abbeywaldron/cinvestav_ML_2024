@@ -1,1 +1,3 @@
-# cinvestav_ML_2024
+# Machine Learning Course at Cinvestav 2024
+
+
